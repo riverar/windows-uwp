@@ -13,7 +13,7 @@ keywords: xbox live, xbox, games, uwp, windows 10, xbox one, unity, leaderboards
 
 For those of you who want a custom leaderboard experience, this article will give you the tools to implement your own leaderboard by going over the APIs available to Unity developers. Once you understand how to pull down leaderboard data you will be able to apply it to the user interface of your choosing.
 
-[!IMPORTANT]
+> [!IMPORTANT]
 > This article applies to a version of the plugin prior to an update made in May of 2018 (1804 Release). If you installed the Xbox Live Plugin after that time, or have not yet downloaded it you may have a newer version which uses different calls to collect leaderboard data. In addition to this you will find that the screenshots in this plugin do not match those of the most recent release. Please instead refer to the [newer unity leaderboards from scratch article](unity-leaderboard-from-scratch.md).
 
 
